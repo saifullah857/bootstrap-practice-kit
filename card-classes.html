@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Cards</title>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+
+    <style>
+        .object-fit-cover {
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container my-5">
+
+    <h2 class="text-center mb-4">Bootstrap Card Classes</h2>
+
+    <!-- FIRST ROW -->
+    <div class="row g-4">
+
+        <!-- Card 1 -->
+        <div class="col-md-3">
+            <div class="card shadow">
+                <img src="https://images.unsplash.com/photo-1773655688962-f116b722f1eb?q=80&w=870&auto=format&fit=crop"
+                    class="card-img-top" alt="img">
+
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text for card content.</p>
+                    <a href="#" class="btn btn-primary btn-sm">Go somewhere</a>
+                    <a href="#" class="btn btn-danger btn-sm">Bootstrap card</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col-md-3">
+            <div class="card shadow">
+
+                <img src="https://images.unsplash.com/photo-1773655688962-f116b722f1eb?q=80&w=870&auto=format&fit=crop"
+                    class="card-img-bottom" alt="img">
+
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text for card content.</p>
+                    <a href="#" class="btn btn-primary btn-sm">Go somewhere</a>
+                    <a href="#" class="btn btn-danger btn-sm">Bootstrap card</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Card 3 (Overlay) -->
+        <div class="col-md-4">
+
+            <div class="card shadow text-white">
+
+                <img src="https://images.unsplash.com/photo-1775521211256-6e5280fd11d6?q=80&w=774&auto=format&fit=crop"
+                    class="card-img" alt="img">
+
+                <div class="card-img-overlay d-flex flex-column justify-content-end">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Overlay card content example.</p>
+
+                    <div>
+                        <a href="#" class="btn btn-primary btn-sm">Go</a>
+                        <a href="#" class="btn btn-danger btn-sm">Card</a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- SECOND ROW -->
+    <div class="row g-4 mt-4">
+
+        <!-- Card with header/footer -->
+        <div class="col-md-4">
+            <div class="card shadow border-success">
+
+                <div class="card-header">
+                    This is Header of Card
+                </div>
+
+                <div class="card-body">
+                    <h5 class="card-title fw-bold">Card Title</h5>
+                    <p class="card-text text-muted">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    </p>
+
+                    <div class="d-flex gap-2">
+                        <a href="#" class="btn btn-primary btn-sm">Go</a>
+                        <a href="#" class="btn btn-outline-danger btn-sm">Bootstrap</a>
+                    </div>
+                </div>
+
+                <div class="card-footer">
+                    This is Footer of Card
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Card with nav header -->
+        <div class="col-md-4">
+            <div class="card shadow border-success">
+
+                <div class="card-header">
+                    <ul class="nav nav-pills card-header-pills">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link active">Active</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">Link</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">Link</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="card-body">
+                    <h5 class="card-title fw-bold">Card Title</h5>
+                    <p class="card-text text-muted">
+                        Navigation inside card header example.
+                    </p>
+
+                    <div class="d-flex gap-2">
+                        <a href="#" class="btn btn-primary btn-sm">Go</a>
+                        <a href="#" class="btn btn-outline-danger btn-sm">Bootstrap</a>
+                    </div>
+                </div>
+
+                <div class="card-footer">
+                    Footer Content
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <!-- THIRD ROW (FIXED IMAGE + TEXT CARD) -->
+    <div class="row mt-5">
+
+        <div class="col-md-5">
+
+            <div class="card shadow">
+
+                <div class="row g-0">
+
+                    <!-- Image -->
+                    <div class="col-md-4">
+                        <img src="https://images.unsplash.com/photo-1776659959019-ae03dfdf75bd?q=80&w=774&auto=format&fit=crop"
+                            class="img-fluid h-100 object-fit-cover" alt="image">
+                    </div>
+
+                    <!-- Content -->
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h4 class="card-title">Card Title</h4>
+                            <p class="card-text">
+                                This is a horizontal card layout using Bootstrap grid system.
+                                Image and text are properly aligned.
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

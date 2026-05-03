@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complete Website</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <style>
+        /* ================= NAVBAR ================= */
+        #header {
+            background: #dc3545;
+        }
+
+        /* ================= BANNER ================= */
+        .banner {
+            position: relative;
+            height: 400px;
+            overflow: hidden;
+        }
+
+        .banner img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Dark overlay */
+        .banner::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+        }
+
+        /* Text on banner */
+        .banner-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            text-align: center;
+            z-index: 2;
+            width: 80%;
+        }
+
+        /* ================= SERVICES ================= */
+        .service-box {
+            padding: 20px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<!-- ================= NAVBAR ================= -->
+<div id="header" class="p-2">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-md-4">
+                <h2 class="text-white text-center m-0">My Website</h2>
+            </div>
+
+            <div class="col-md-8">
+                <ul class="nav justify-content-end">
+                    <li class="nav-item"><a class="nav-link text-white" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#">About</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#">Services</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#">Blog</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- ================= BANNER SECTION ================= -->
+<div class="banner">
+
+    <img src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?w=1200">
+
+    <div class="banner-text">
+        <h1>Welcome to My Website</h1>
+        <p>
+            Learn Bootstrap step by step with simple examples. <br>
+            Build modern responsive websites easily.
+        </p>
+        <a href="#" class="btn btn-warning">Get Started</a>
+    </div>
+
+</div>
+
+<!-- ================= SERVICES SECTION ================= -->
+<div class="container mt-5">
+
+    <div class="row text-center mb-4">
+        <h2>Our Services</h2>
+    </div>
+
+    <div class="row text-center justify-content-center">
+
+        <!-- Service 1 -->
+        <div class="col-md-4 service-box">
+            <i class="fas fa-code fa-2x text-danger mb-3"></i>
+            <h3>Web Development</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex nihil cum, autem quidem quod facilis perspiciatis adipisci, esse, totam sequi aliquam aspernatur! Saepe nisi quaerat placeat, ipsa officia dolore obcaecati..</p>
+        </div>
+
+        <!-- Service 2 -->
+        <div class="col-md-4 service-box">
+            <i class="fas fa-paint-brush fa-2x text-danger mb-3"></i>
+            <h3>Graphic Design</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex nihil cum, autem quidem quod facilis perspiciatis adipisci, esse, totam sequi aliquam aspernatur! Saepe nisi quaerat placeat, ipsa officia dolore obcaecati..</p>
+        </div>
+
+        <!-- Service 3 -->
+        <div class="col-md-4 service-box">
+            <i class="fas fa-mobile-alt fa-2x text-danger mb-3"></i>
+            <h3>SEO Optimization</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex nihil cum, autem quidem quod facilis perspiciatis adipisci, esse, totam sequi aliquam aspernatur! Saepe nisi quaerat placeat, ipsa officia dolore obcaecati..</p>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
