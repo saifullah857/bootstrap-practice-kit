@@ -1,146 +1,179 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Bootstrap%205%20Practice%20Kit&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Complete%20hands-on%20examples%20covering%20Bootstrap%205.3%20from%20grid%20to%20components&descAlignY=62&descSize=16&descColor=cce5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Bootstrap%205%20Practice%20Kit&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=22%20Hands-On%20Examples%20·%20Grid%20·%20Flexbox%20·%20Components%20·%20Utilities&descAlignY=62&descSize=17&descColor=cce5ff" width="100%"/>
 
-### 🎨 A Complete Bootstrap 5 Learning & Reference Collection
-#### `Grid System` &nbsp;·&nbsp; `Flexbox` &nbsp;·&nbsp; `Components` &nbsp;·&nbsp; `Utilities` &nbsp;·&nbsp; `Layouts` &nbsp;·&nbsp; `Responsive Design`
+---
+
+### 🎨 Learn Bootstrap 5 by Building · Not Just Reading
+
+#### `Containers` &nbsp;·&nbsp; `Grid` &nbsp;·&nbsp; `Flexbox` &nbsp;·&nbsp; `Navbar` &nbsp;·&nbsp; `Cards` &nbsp;·&nbsp; `Carousel` &nbsp;·&nbsp; `Forms` &nbsp;·&nbsp; `Utilities`
+
+---
+
+<!-- BADGE ROW 1 — TECH -->
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-5.3.8-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-Semantic-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Custom%20Styles-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Font%20Awesome-6.5-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white"/>
+</p>
+
+<!-- BADGE ROW 2 — PROJECT STATS -->
+<p>
+  <img src="https://img.shields.io/badge/📄%20Examples-22%20HTML%20Files-22c55e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📱%20Responsive-Mobile%20First-0ea5e9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡%20Offline-Local%20Bootstrap%20CSS-f97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-a855f7?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+</p>
+
+<!-- BADGE ROW 3 — SOCIAL -->
+<p>
+  <img src="https://img.shields.io/github/stars/saifullah857/bootstrap-practice-kit?style=for-the-badge&logo=github&color=yellow&labelColor=black"/>
+  <img src="https://img.shields.io/github/forks/saifullah857/bootstrap-practice-kit?style=for-the-badge&logo=github&color=blue&labelColor=black"/>
+  <img src="https://img.shields.io/github/issues/saifullah857/bootstrap-practice-kit?style=for-the-badge&logo=github&color=red&labelColor=black"/>
+  <img src="https://img.shields.io/github/last-commit/saifullah857/bootstrap-practice-kit?style=for-the-badge&logo=git&color=orange&labelColor=black"/>
+</p>
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Bootstrap-5.3.8-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-Semantic-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Custom%20Styles-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Font%20Awesome-6.5-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Examples-22%20Files-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsive-Mobile%20First-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Offline-Local%20Bootstrap%20CSS-f97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-a855f7?style=for-the-badge" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/stars/saifullah857/bootstrap-practice-kit?style=for-the-badge&logo=github&color=yellow&labelColor=black" />
-  <img src="https://img.shields.io/github/forks/saifullah857/bootstrap-practice-kit?style=for-the-badge&logo=github&color=blue&labelColor=black" />
-  <img src="https://img.shields.io/github/last-commit/saifullah857/bootstrap-practice-kit?style=for-the-badge&logo=git&color=orange&labelColor=black" />
-</p>
+<blockquote>
+A <b>complete hands-on Bootstrap 5 reference collection</b> with <b>22 real-coded examples</b> covering every core concept —<br/>
+from containers and grid to carousels, navbars, cards, forms, flexbox, and utility classes.<br/>
+<i>No fluff. Just clean, readable, copy-paste-ready code.</i>
+</blockquote>
 
 <br/>
 
-> A **hands-on reference collection** of **22 Bootstrap 5 examples** — from containers and grid layouts to carousels, navbars, cards, forms, and flexbox utilities. Built for learners who want to see every Bootstrap concept in action with clean, readable code.
+<a href="https://github.com/saifullah857/bootstrap-practice-kit">
+  <img src="https://img.shields.io/badge/⭐%20Star%20this%20repo%20if%20it%20helped%20you!-FFD700?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## 📌 Repository Info
+## 📌 Repository Name & Description
 
 | Field | Value |
 |:---|:---|
-| **Repo Name** | `bootstrap-practice-kit` |
-| **Tagline** | *22 hands-on Bootstrap 5.3 examples — Grid, Flexbox, Navbar, Cards, Carousel, Forms & more* |
-| **Topics** | `bootstrap5` `html` `css` `frontend` `responsive` `flexbox` `grid` `learning` `practice` |
+| **🗂️ Repo Name** | `bootstrap-practice-kit` |
+| **📝 Description** | *22 hands-on Bootstrap 5.3 HTML examples — Grid, Flexbox, Navbar, Cards, Carousel, Forms, Utilities & more. Perfect for learners & quick reference.* |
+| **🏷️ Topics** | `bootstrap5` `html5` `css3` `frontend` `responsive-design` `flexbox` `grid-layout` `web-development` `learning` `practice` `beginner-friendly` |
+
+---
+
+## ✨ Why This Kit?
+
+<div align="center">
+
+```
+  Reading Bootstrap Docs          Using Bootstrap Practice Kit
+  ───────────────────────   vs   ──────────────────────────────
+   Abstract class names     →     Live code you can see & touch
+   One concept per page     →     22 examples side by side
+   No visual feedback       →     Open in browser instantly
+   Forget after reading     →     Copy, edit, experiment
+   No offline support       →     Works fully offline (local CSS)
+```
+
+</div>
+
+---
+
+## 🗂️ What's Inside — All 22 Examples
+
+### 🏗️ Grid & Layout
+
+| File | What It Teaches | Bootstrap Classes Used |
+|:---|:---|:---|
+| `index.html` | Containers + 3-column grid | `container-md` `col-md-4` `border` |
+| `01.html` | Responsive container breakpoints | `container-sm/md/lg/xl/xxl` |
+| `02.html` | Auto-width equal columns | `col-md` (no number = equal split) |
+| `03.html` | Full page: header + sidebar + main | `col-lg-3` `col-lg-9` |
+| `nesting.html` | Nested rows inside columns | `row` inside `col-md-6` |
+| `offset.html` | Column offsets & visual ordering | `offset-md-3` `order-md-1/2` |
+| `reordering.html` | Flip column order without HTML change | `order-first` `order-last` |
+
+### 📐 Alignment & Spacing
+
+| File | What It Teaches | Bootstrap Classes Used |
+|:---|:---|:---|
+| `horizental-alignment.html` | Center columns horizontally | `justify-content-md-center` |
+| `vertical-alignment.html` | Vertically center to full height | `align-items-center` |
+| `align-content-vertically.html` | Multi-row vertical distribution | `align-content-lg-around` |
+| `margin.html` | Margin, padding & auto-centering | `mt-5` `p-5` `m-auto` |
+| `float-clearfix.html` | Float problem + clearfix solution | `float-start` `float-end` `clearfix` |
+| `overflow.html` | Clip, scroll & auto overflow | `overflow-hidden` `overflow-auto` `overflow-scroll` |
+
+### 🔀 Flexbox
+
+| File | What It Teaches | Bootstrap Classes Used |
+|:---|:---|:---|
+| `flex-classes.html` | Flex wrap, reverse, responsive hide/show | `flex-wrap-reverse` `d-none d-md-block` |
+
+### 🖥️ Components
+
+| File | Component | Highlights |
+|:---|:---|:---|
+| `bootsrap-navbar.html` | ⚡ Responsive Navbar | Brand logo · collapsible menu · dropdown |
+| `carousal.html` | 🎠 Full-Screen Carousel | Indicators · captions · auto-slide |
+| `card-classes.html` | 🃏 Card Variants | `shadow` · image-top · multiple buttons |
+| `cards02.html` | 🎓 Animated Course Cards | Hover lift · badge overlay · Font Awesome |
+| `form-classes.html` | 📝 Two-Column Form | `form-control` · `form-label` · centered layout |
+| `image.html` | 🖼️ Image Classes | `img-fluid` · `img-thumbnail` · `rounded-pill` · `figure` |
+| `media-object.html` | 👤 Media Objects | Avatar + text + like/dislike buttons |
+| `h1.html` | 🔤 Styled Section Headings | CSS `::before/::after` decorative lines |
+| `tamplet.html` | 🏠 Full Website Template | Navbar + hero banner + Font Awesome |
 
 ---
 
 ## 📁 Project Structure
 
 ```
-Bootstrap/
+bootstrap-practice-kit/
 │
-├── 📄 index.html                    ← Containers + 3-column grid basics
-├── 📄 01.html                       ← Container breakpoints (sm/md/lg/xl/xxl)
-├── 📄 02.html                       ← Grid system: auto-width col-md columns
-├── 📄 03.html                       ← Full page layout: nav + sidebar + content
+├── 📄 index.html                      ← Container + basic 3-col grid
+├── 📄 01.html                         ← Container breakpoints demo
+├── 📄 02.html                         ← Auto-width equal columns
+├── 📄 03.html                         ← Full layout: nav + sidebar + content
 │
-├── 🧭 bootsrap-navbar.html          ← Responsive navbar with dropdown menu
-├── 🎠 carousal.html                 ← Full-screen image carousel with captions
-├── 🃏 card-classes.html             ← Bootstrap card classes & variants
-├── 🃏 cards02.html                  ← Hover-animated course cards + Font Awesome
-├── 📝 form-classes.html             ← Two-column styled Bootstrap form
-├── 🖼️  image.html                   ← img-fluid, img-thumbnail, rounded-pill, figure
-├── 👤 media-object.html             ← Media object cards with like/dislike buttons
+├── 🧭 bootsrap-navbar.html            ← Responsive navbar + dropdown
+├── 🎠 carousal.html                   ← Full-screen carousel + captions
+├── 🃏 card-classes.html               ← Bootstrap card classes & variants
+├── 🎓 cards02.html                    ← Animated course cards + Font Awesome
+├── 📝 form-classes.html               ← Two-column Bootstrap form
+├── 🖼️  image.html                     ← Image utilities & figure classes
+├── 👤 media-object.html               ← Media objects with action buttons
 │
-├── 🔤 h1.html                       ← Decorative section headings with CSS lines
-├── 🏠 tamplet.html                  ← Complete website template (navbar + banner)
+├── 🔤 h1.html                         ← Decorative headings with CSS lines
+├── 🏠 tamplet.html                    ← Complete website template
 │
-├── 📐 horizental-alignment.html     ← justify-content grid alignment
-├── 📏 vertical-alignment.html       ← align-items-center full-height centering
-├── 📦 align-content-vertically.html ← align-content utilities (start/end/around)
-├── 🔀 flex-classes.html             ← Flexbox wrap, reverse, responsive visibility
-├── 🔢 offset.html                   ← Column offsets & order classes
-├── 🔁 reordering.html               ← order-first / order-last column reordering
-├── 🔳 nesting.html                  ← Nested rows inside columns
+├── 📐 horizental-alignment.html       ← justify-content alignment
+├── 📏 vertical-alignment.html         ← align-items centering
+├── 📦 align-content-vertically.html   ← align-content utilities
+├── 🔀 flex-classes.html               ← Flexbox + responsive visibility
+├── 🔢 offset.html                     ← Column offsets & ordering
+├── 🔁 reordering.html                 ← order-first / order-last
+├── 🔳 nesting.html                    ← Nested rows inside columns
+├── 📍 margin.html                     ← Spacing utilities
+├── 〰️  float-clearfix.html            ← Float + clearfix
+├── 📜 overflow.html                   ← Overflow control demos
 │
-├── 📍 margin.html                   ← mt / mb / m-auto spacing utilities
-├── 〰️  float-clearfix.html          ← Float-start/end + clearfix fix
-├── 📜 overflow.html                 ← overflow-hidden / auto / scroll demos
-│
-├── 🎨 style.css                     ← Custom CSS for align-content demo
-│
+├── 🎨 style.css                       ← Custom styles for demos
 └── 📂 css/
-    ├── bootstrap.css                ← Local Bootstrap 5 stylesheet
+    ├── bootstrap.css                  ← Local Bootstrap 5 (offline ready)
     └── bootstrap-5.3.8-dist/
-        ├── css/                     ← Full Bootstrap CSS distribution
+        ├── css/                       ← Full CSS distribution
         │   ├── bootstrap.min.css
         │   ├── bootstrap-grid.css
         │   ├── bootstrap-reboot.css
         │   ├── bootstrap-utilities.css
         │   └── RTL variants (.rtl.css)
         └── js/
-            ├── bootstrap.bundle.js  ← JS + Popper bundled
+            ├── bootstrap.bundle.js    ← JS + Popper bundled
             ├── bootstrap.bundle.min.js
             └── bootstrap.esm.js
 ```
-
----
-
-## 🗂️ Examples by Category
-
-### 🏗️ Grid & Layout
-
-| File | Concept | Key Classes |
-|:---|:---|:---|
-| `index.html` | Containers + basic 3-column grid | `container-md`, `col-md-4`, `border` |
-| `01.html` | Responsive container breakpoints | `container-sm/md/lg/xl/xxl` |
-| `02.html` | Auto-width equal columns | `col-md` (no number) |
-| `03.html` | Full page: header + sidebar + content | `col-lg-3`, `col-lg-9` |
-| `nesting.html` | Nested rows inside columns | `row` inside `col-md-6` |
-| `offset.html` | Offset & order utilities | `offset-md-3`, `order-md-1/2` |
-| `reordering.html` | Reorder columns visually | `order-first`, `order-last` |
-
-### 📐 Alignment & Spacing
-
-| File | Concept | Key Classes |
-|:---|:---|:---|
-| `horizental-alignment.html` | Center columns horizontally | `justify-content-md-center` |
-| `vertical-alignment.html` | Center content full-height | `align-items-center`, `vh-100` |
-| `align-content-vertically.html` | Multi-row vertical spacing | `align-content-lg-around` |
-| `margin.html` | Margin & auto centering | `mt-5`, `m-auto`, `p-5` |
-| `float-clearfix.html` | Float + clearfix | `float-start`, `float-end`, `clearfix` |
-| `overflow.html` | Overflow control | `overflow-hidden`, `overflow-auto`, `overflow-scroll` |
-
-### 🧩 Flexbox
-
-| File | Concept | Key Classes |
-|:---|:---|:---|
-| `flex-classes.html` | Flex wrap, reverse, responsive hide | `flex-wrap-reverse`, `d-none d-md-block` |
-
-### 🖥️ Components
-
-| File | Component | Highlights |
-|:---|:---|:---|
-| `bootsrap-navbar.html` | Responsive Navbar | Collapsible, dropdown, brand logo |
-| `carousal.html` | Full-screen Carousel | Indicators, captions, auto-slide |
-| `card-classes.html` | Card Variants | Shadow, image-top, buttons |
-| `cards02.html` | Animated Course Cards | Hover lift, Font Awesome icons, badge overlay |
-| `form-classes.html` | Two-column Form | form-control, form-label, centered layout |
-| `image.html` | Image Classes | img-fluid, img-thumbnail, rounded-pill, figure |
-| `media-object.html` | Media Objects | Avatar + text + action buttons |
-| `h1.html` | Styled Headings | CSS `::before` / `::after` decorative lines |
-| `tamplet.html` | Website Template | Full navbar + hero banner + Font Awesome |
 
 ---
 
@@ -150,59 +183,100 @@ Bootstrap/
 
 ```bash
 git clone https://github.com/saifullah857/bootstrap-practice-kit.git
-cd bootstrap-practice-kit/Bootstrap
+cd bootstrap-practice-kit
 ```
 
-### 2️⃣ Open Any Example
+### 2️⃣ Open Any File Instantly
 
-Just double-click any `.html` file — no build tools, no server needed!
-
-```
-Bootstrap/
- └── card-classes.html   ← Open in browser directly ✅
-```
-
-> All examples reference the **local Bootstrap CSS** from `css/bootstrap.css` — works completely **offline** without a CDN.
-
-### 3️⃣ Or Use Live Server (Recommended)
-
-If you use VS Code, install the **Live Server** extension:
+No installs, no build tools, no terminal needed:
 
 ```
-1. Open the Bootstrap/ folder in VS Code
-2. Right-click any .html file
-3. Click "Open with Live Server"
-4. Auto-reloads as you edit 🔥
+📂 bootstrap-practice-kit/
+    └── 🖱️ Double-click any .html file → Opens in your browser ✅
+```
+
+> All examples use the **local Bootstrap CSS** from `css/bootstrap.css` — works **100% offline**.
+
+### 3️⃣ VS Code + Live Server (Recommended)
+
+```
+1. Open the folder in VS Code
+2. Install "Live Server" extension (if not installed)
+3. Right-click any .html file → "Open with Live Server"
+4. Edit → browser auto-reloads 🔥
 ```
 
 ---
 
-## 💡 Concepts Covered
+## ✅ Concepts Covered
 
 ```
-✅ Container types          (sm / md / lg / xl / xxl / fluid)
-✅ Grid system              (12-column, auto-width, breakpoints)
-✅ Nested grids             (row inside col)
-✅ Column offsets           (offset-md-*)
-✅ Column reordering        (order-first / order-last)
-✅ Horizontal alignment     (justify-content-*)
-✅ Vertical alignment       (align-items-*)
-✅ Align content            (align-content-*)
-✅ Flexbox utilities        (d-flex, flex-wrap, flex-column)
-✅ Responsive visibility    (d-none d-md-block)
-✅ Spacing utilities        (m-* / p-* / mt-* / mb-*)
-✅ Float & Clearfix         (float-start / float-end / clearfix)
-✅ Overflow utilities       (overflow-hidden / auto / scroll)
-✅ Typography               (text-center, text-danger, fw-bold)
-✅ Border utilities         (border, border-2, border-black)
-✅ Color utilities          (bg-primary, text-white)
-✅ Responsive Navbar        (navbar-expand-lg, dropdown)
-✅ Carousel / Slider        (carousel, data-bs-ride)
-✅ Cards                    (card, card-body, shadow, hover)
-✅ Forms                    (form-control, form-label)
-✅ Images                   (img-fluid, img-thumbnail, figure)
-✅ Media Objects            (d-flex + align-items-start)
-✅ Font Awesome icons       (fa-*, fas, far)
+LAYOUT
+ ✅ Container types             sm / md / lg / xl / xxl / fluid
+ ✅ Grid system                 12-col, auto-width, responsive breakpoints
+ ✅ Nested grids                row inside col
+ ✅ Column offsets              offset-md-*
+ ✅ Column reordering           order-first / order-last / order-md-*
+
+ALIGNMENT
+ ✅ Horizontal alignment        justify-content-start/center/end/between
+ ✅ Vertical alignment          align-items-start/center/end
+ ✅ Align content               align-content-start/end/center/between/around
+
+FLEXBOX & DISPLAY
+ ✅ Flexbox utilities           d-flex, flex-column, flex-wrap, flex-wrap-reverse
+ ✅ Responsive visibility       d-none d-md-block, d-sm-none
+
+UTILITIES
+ ✅ Spacing                     m-* / p-* / mt-* / mb-* / ms-* / me-* / m-auto
+ ✅ Float & clearfix            float-start / float-end / clearfix
+ ✅ Overflow                    overflow-hidden / overflow-auto / overflow-scroll
+ ✅ Typography                  text-center / text-danger / fw-bold / text-uppercase
+ ✅ Colors & backgrounds        bg-primary / bg-danger / text-white / text-muted
+ ✅ Borders                     border / border-2 / border-black / rounded
+
+COMPONENTS
+ ✅ Responsive Navbar           navbar-expand-lg / collapse / dropdown
+ ✅ Image Carousel              carousel / data-bs-ride / indicators / captions
+ ✅ Cards                       card / card-body / card-title / shadow / hover
+ ✅ Forms                       form-control / form-label / input types
+ ✅ Images                      img-fluid / img-thumbnail / rounded-pill / figure
+ ✅ Media Objects               d-flex + align-items-start + avatar pattern
+ ✅ Font Awesome Icons          fas fa-* / far fa-* / icon buttons
+```
+
+---
+
+## 🗺️ Suggested Learning Path
+
+> New to Bootstrap? Open files in this order:
+
+```
+ BEGINNER ──────────────────────────────────────────── ADVANCED
+    │                                                      │
+    ▼                                                      ▼
+ 01.html           →   Container sizes (start here!)
+ index.html        →   First grid layout
+ 02.html           →   Auto-width columns
+ nesting.html      →   Rows inside columns
+ offset.html       →   Offsets & ordering
+ margin.html       →   Spacing utilities
+ horizental-alignment.html  →  justify-content
+ vertical-alignment.html    →  align-items
+ align-content-vertically.html → align-content
+ flex-classes.html →   Flexbox power
+ float-clearfix.html → Float + fix
+ overflow.html     →   Overflow control
+ reordering.html   →   Column order tricks
+ image.html        →   Image classes
+ form-classes.html →   Forms
+ card-classes.html →   Basic cards
+ cards02.html      →   Advanced animated cards
+ media-object.html →   Media patterns
+ bootsrap-navbar.html → Responsive navbar
+ carousal.html     →   Full-screen carousel
+ h1.html           →   Styled headings (CSS + Bootstrap)
+ tamplet.html      →   🏁 Full website — you made it!
 ```
 
 ---
@@ -211,68 +285,39 @@ If you use VS Code, install the **Live Server** extension:
 
 <div align="center">
 
-| Technology | Version | Purpose |
+| Technology | Version | Role |
 |:---:|:---:|:---|
-| **Bootstrap** | 5.3.8 | CSS framework (local + CDN) |
-| **HTML5** | — | Semantic structure |
-| **CSS3** | — | Custom styles (`style.css`) |
-| **Font Awesome** | 6.0 – 6.5 | Icons in cards & templates |
-| **Bootstrap JS Bundle** | 5.3.8 | Navbar collapse, carousel, dropdowns |
+| **Bootstrap** | 5.3.8 | CSS framework — grid, components, utilities |
+| **HTML5** | — | Semantic structure for all examples |
+| **CSS3** | — | Custom overrides in `style.css` |
+| **Font Awesome** | 6.0 – 6.5 | Icons used in cards & templates |
+| **Bootstrap JS Bundle** | 5.3.8 | Powers navbar collapse, carousel, dropdowns |
 
 </div>
 
 ---
 
-## 📖 Learning Path
-
-If you're a beginner, open the files in this order:
-
-```
-Start here 👇
-│
-├── 1.  01.html                       ← Container sizes
-├── 2.  index.html                    ← First grid layout
-├── 3.  02.html                       ← Auto columns
-├── 4.  nesting.html                  ← Nested grids
-├── 5.  offset.html                   ← Offsets & order
-├── 6.  margin.html                   ← Spacing utilities
-├── 7.  horizental-alignment.html     ← justify-content
-├── 8.  vertical-alignment.html       ← align-items
-├── 9.  align-content-vertically.html ← align-content
-├── 10. flex-classes.html             ← Flexbox
-├── 11. float-clearfix.html           ← Float & clearfix
-├── 12. overflow.html                 ← Overflow
-├── 13. reordering.html               ← Column order
-├── 14. image.html                    ← Images
-├── 15. form-classes.html             ← Forms
-├── 16. card-classes.html             ← Cards
-├── 17. cards02.html                  ← Advanced cards
-├── 18. media-object.html             ← Media objects
-├── 19. bootsrap-navbar.html          ← Navbar
-├── 20. carousal.html                 ← Carousel
-├── 21. h1.html                       ← Styled headings
-└── 22. tamplet.html                  ← Full website 🏁
-```
-
----
-
 ## 🤝 Contributing
 
-Got a Bootstrap concept not covered here? PRs are welcome!
+Got a Bootstrap concept not covered here? Pull requests are welcome!
 
 ```bash
-git checkout -b feature/new-bootstrap-example
-# Add your .html file with clear comments
+# Fork → Clone → Branch
+git checkout -b feature/your-example-name
+
+# Add your HTML file with clear inline comments
+# Then commit
 git commit -m "✨ Add: Bootstrap [concept] example"
-git push origin feature/new-bootstrap-example
-# Open a Pull Request
+git push origin feature/your-example-name
+
+# Open a Pull Request on GitHub 🚀
 ```
 
-**Ideas for new examples:**
+**Ideas welcome:**
 - 🔔 Toast & Alert components
 - 📊 Progress bars & spinners
-- 🗃️ Accordion & collapse
-- 🪟 Modals & offcanvas
+- 🗃️ Accordion & collapse panels
+- 🪟 Modals & offcanvas drawer
 - 📌 Sticky navbar & scrollspy
 
 ---
@@ -281,27 +326,31 @@ git push origin feature/new-bootstrap-example
 
 ```
 MIT License © 2025 saifullah857
-Free to use, modify, and share — just give credit!
+Free to use, modify, share — just give credit!
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=twinkling" width="100%"/>
 
-**Found this helpful? Drop a ⭐ — it keeps the project going!**
+### If this kit helped you learn Bootstrap faster, drop a ⭐ — it means a lot!
 
 <a href="https://github.com/saifullah857/bootstrap-practice-kit">
-  <img src="https://img.shields.io/badge/⭐%20Star%20on%20GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/⭐%20Star%20on%20GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 &nbsp;
 <a href="https://github.com/saifullah857/bootstrap-practice-kit/fork">
-  <img src="https://img.shields.io/badge/🍴%20Fork%20this%20Repo-grey?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🍴%20Fork%20this%20Repo-555?style=for-the-badge&logo=github"/>
+</a>
+&nbsp;
+<a href="https://github.com/saifullah857/bootstrap-practice-kit/issues">
+  <img src="https://img.shields.io/badge/🐛%20Report%20a%20Bug-dc2626?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
 
-*Built with ❤️ while learning Bootstrap 5 · Open Source · Happy Coding!*
+*Built with ❤️ while learning Bootstrap 5 &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Happy Coding!*
 
 </div>
