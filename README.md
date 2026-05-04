@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Bootstrap%205%20Practice%20Kit&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=22%20Hands-On%20Examples%20·%20Grid%20·%20Flexbox%20·%20Components%20·%20Utilities&descAlignY=62&descSize=17&descColor=cce5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Bootstrap%205%20Practice%20Kit&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=34%20Hands-On%20Examples%20·%20Grid%20·%20Flexbox%20·%20Components%20·%20Utilities&descAlignY=62&descSize=17&descColor=cce5ff" width="100%"/>
 
 ---
 
 ### 🎨 Learn Bootstrap 5 by Building · Not Just Reading
 
-#### `Containers` &nbsp;·&nbsp; `Grid` &nbsp;·&nbsp; `Flexbox` &nbsp;·&nbsp; `Navbar` &nbsp;·&nbsp; `Cards` &nbsp;·&nbsp; `Carousel` &nbsp;·&nbsp; `Forms` &nbsp;·&nbsp; `Utilities`
+#### `Containers` &nbsp;·&nbsp; `Grid` &nbsp;·&nbsp; `Flexbox` &nbsp;·&nbsp; `Navbar` &nbsp;·&nbsp; `Cards` &nbsp;·&nbsp; `Carousel` &nbsp;·&nbsp; `Modals` &nbsp;·&nbsp; `Forms` &nbsp;·&nbsp; `Tables` &nbsp;·&nbsp; `Utilities`
 
 ---
 
@@ -20,7 +20,7 @@
 
 <!-- BADGE ROW 2 — PROJECT STATS -->
 <p>
-  <img src="https://img.shields.io/badge/📄%20Examples-22%20HTML%20Files-22c55e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📄%20Examples-34%20HTML%20Files-22c55e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📱%20Responsive-Mobile%20First-0ea5e9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⚡%20Offline-Local%20Bootstrap%20CSS-f97316?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/License-MIT-a855f7?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
@@ -37,8 +37,8 @@
 <br/>
 
 <blockquote>
-A <b>complete hands-on Bootstrap 5 reference collection</b> with <b>22 real-coded examples</b> covering every core concept —<br/>
-from containers and grid to carousels, navbars, cards, forms, flexbox, and utility classes.<br/>
+A <b>complete hands-on Bootstrap 5 reference collection</b> with <b>34 real-coded examples</b> covering every core concept —<br/>
+from containers and grid to carousels, navbars, modals, tables, spinners, progress bars, alerts, accordions, and more.<br/>
 <i>No fluff. Just clean, readable, copy-paste-ready code.</i>
 </blockquote>
 
@@ -57,8 +57,8 @@ from containers and grid to carousels, navbars, cards, forms, flexbox, and utili
 | Field | Value |
 |:---|:---|
 | **🗂️ Repo Name** | `bootstrap-practice-kit` |
-| **📝 Description** | *22 hands-on Bootstrap 5.3 HTML examples — Grid, Flexbox, Navbar, Cards, Carousel, Forms, Utilities & more. Perfect for learners & quick reference.* |
-| **🏷️ Topics** | `bootstrap5` `html5` `css3` `frontend` `responsive-design` `flexbox` `grid-layout` `web-development` `learning` `practice` `beginner-friendly` |
+| **📝 Description** | *34 hands-on Bootstrap 5.3 HTML examples — Grid, Flexbox, Navbar, Cards, Carousel, Modals, Tables, Alerts, Spinners, Progress Bars, Accordion & more. Perfect for learners & quick reference.* |
+| **🏷️ Topics** | `bootstrap5` `html5` `css3` `frontend` `responsive-design` `flexbox` `grid-layout` `web-development` `learning` `practice` `beginner-friendly` `modal` `accordion` `tables` `spinner` |
 
 ---
 
@@ -70,7 +70,7 @@ from containers and grid to carousels, navbars, cards, forms, flexbox, and utili
   Reading Bootstrap Docs          Using Bootstrap Practice Kit
   ───────────────────────   vs   ──────────────────────────────
    Abstract class names     →     Live code you can see & touch
-   One concept per page     →     22 examples side by side
+   One concept per page     →     34 examples side by side
    No visual feedback       →     Open in browser instantly
    Forget after reading     →     Copy, edit, experiment
    No offline support       →     Works fully offline (local CSS)
@@ -80,7 +80,7 @@ from containers and grid to carousels, navbars, cards, forms, flexbox, and utili
 
 ---
 
-## 🗂️ What's Inside — All 22 Examples
+## 🗂️ What's Inside — All 34 Examples
 
 ### 🏗️ Grid & Layout
 
@@ -93,6 +93,7 @@ from containers and grid to carousels, navbars, cards, forms, flexbox, and utili
 | `nesting.html` | Nested rows inside columns | `row` inside `col-md-6` |
 | `offset.html` | Column offsets & visual ordering | `offset-md-3` `order-md-1/2` |
 | `reordering.html` | Flip column order without HTML change | `order-first` `order-last` |
+| `gutter.html` | Grid gutters & spacing between columns | `g-1` `gx-*` `gy-*` |
 
 ### 📐 Alignment & Spacing
 
@@ -117,11 +118,21 @@ from containers and grid to carousels, navbars, cards, forms, flexbox, and utili
 |:---|:---|:---|
 | `bootsrap-navbar.html` | ⚡ Responsive Navbar | Brand logo · collapsible menu · dropdown |
 | `carousal.html` | 🎠 Full-Screen Carousel | Indicators · captions · auto-slide |
+| `carousel-classes.html` | 🎠 Carousel with Images | Image-only slides · prev/next controls · auto-slide |
 | `card-classes.html` | 🃏 Card Variants | `shadow` · image-top · multiple buttons |
 | `cards02.html` | 🎓 Animated Course Cards | Hover lift · badge overlay · Font Awesome |
 | `form-classes.html` | 📝 Two-Column Form | `form-control` · `form-label` · centered layout |
 | `image.html` | 🖼️ Image Classes | `img-fluid` · `img-thumbnail` · `rounded-pill` · `figure` |
 | `media-object.html` | 👤 Media Objects | Avatar + text + like/dislike buttons |
+| `model.html` | 🪟 Bootstrap Modal | Trigger button · `modal-dialog` · `modal-body` · dismiss |
+| `model-classes.html` | 🪟 Modal with Form | `modal-dialog-centered` · static backdrop · embedded form |
+| `accordian.html` | 🗃️ Accordion | `accordion-item` · `accordion-button` · `accordion-collapse` |
+| `alert.html` | 🔔 Dismissible Alert | `alert-warning` · `alert-dismissible` · JS show/hide toggle |
+| `badges.html` | 🏷️ Badges | `badge` · `rounded-pill` · `bg-*` · inline & button badges |
+| `table.html` | 📊 Bootstrap Tables | `table` · `table-striped` · `table-hover` · colored rows |
+| `progress-bar.html` | 📈 Progress Bars | `progress-bar` · `progress-bar-striped` · stacked & animated |
+| `spinner.html` | ⏳ Spinners | `spinner-border` · `spinner-grow` · sized & colored variants |
+| `footer.html` | 🦶 Footer Design | Multi-column footer · Bootstrap Icons · social links |
 | `h1.html` | 🔤 Styled Section Headings | CSS `::before/::after` decorative lines |
 | `tamplet.html` | 🏠 Full Website Template | Navbar + hero banner + Font Awesome |
 
@@ -139,11 +150,21 @@ bootstrap-practice-kit/
 │
 ├── 🧭 bootsrap-navbar.html            ← Responsive navbar + dropdown
 ├── 🎠 carousal.html                   ← Full-screen carousel + captions
+├── 🎠 carousel-classes.html           ← Image carousel + prev/next controls
 ├── 🃏 card-classes.html               ← Bootstrap card classes & variants
 ├── 🎓 cards02.html                    ← Animated course cards + Font Awesome
 ├── 📝 form-classes.html               ← Two-column Bootstrap form
 ├── 🖼️  image.html                     ← Image utilities & figure classes
 ├── 👤 media-object.html               ← Media objects with action buttons
+├── 🪟 model.html                      ← Basic Bootstrap modal
+├── 🪟 model-classes.html              ← Modal with embedded form
+├── 🗃️ accordian.html                  ← Accordion collapse panels
+├── 🔔 alert.html                      ← Dismissible alerts with JS toggle
+├── 🏷️ badges.html                     ← Badge variants & use cases
+├── 📊 table.html                      ← Styled Bootstrap tables
+├── 📈 progress-bar.html               ← Progress bars (single, stacked, striped)
+├── ⏳ spinner.html                    ← Border & grow spinners
+├── 🦶 footer.html                     ← Footer with Bootstrap Icons
 │
 ├── 🔤 h1.html                         ← Decorative headings with CSS lines
 ├── 🏠 tamplet.html                    ← Complete website template
@@ -156,9 +177,11 @@ bootstrap-practice-kit/
 ├── 🔁 reordering.html                 ← order-first / order-last
 ├── 🔳 nesting.html                    ← Nested rows inside columns
 ├── 📍 margin.html                     ← Spacing utilities
+├── ↔️  gutter.html                    ← Grid gutter control
 ├── 〰️  float-clearfix.html            ← Float + clearfix
 ├── 📜 overflow.html                   ← Overflow control demos
 │
+├── 🖼️  03.jpg                         ← Image asset used in 03.html
 ├── 🎨 style.css                       ← Custom styles for demos
 └── 📂 css/
     ├── bootstrap.css                  ← Local Bootstrap 5 (offline ready)
@@ -172,7 +195,8 @@ bootstrap-practice-kit/
         └── js/
             ├── bootstrap.bundle.js    ← JS + Popper bundled
             ├── bootstrap.bundle.min.js
-            └── bootstrap.esm.js
+            ├── bootstrap.esm.js
+            └── bootstrap.min.js
 ```
 
 ---
@@ -217,6 +241,7 @@ LAYOUT
  ✅ Nested grids                row inside col
  ✅ Column offsets              offset-md-*
  ✅ Column reordering           order-first / order-last / order-md-*
+ ✅ Grid gutters                g-* / gx-* / gy-*
 
 ALIGNMENT
  ✅ Horizontal alignment        justify-content-start/center/end/between
@@ -239,10 +264,19 @@ COMPONENTS
  ✅ Responsive Navbar           navbar-expand-lg / collapse / dropdown
  ✅ Image Carousel              carousel / data-bs-ride / indicators / captions
  ✅ Cards                       card / card-body / card-title / shadow / hover
+ ✅ Modal                       modal / modal-dialog / modal-header / modal-body / data-bs-dismiss
+ ✅ Accordion                   accordion / accordion-item / accordion-button / accordion-collapse
+ ✅ Alerts                      alert / alert-dismissible / fade / JS toggle
+ ✅ Badges                      badge / rounded-pill / bg-* / inline & button use
+ ✅ Tables                      table / table-striped / table-hover / table-danger / colored cells
+ ✅ Progress Bars               progress / progress-bar / progress-bar-striped / stacked
+ ✅ Spinners                    spinner-border / spinner-grow / sizing / colors
+ ✅ Footer                      multi-column layout / Bootstrap Icons / social links
  ✅ Forms                       form-control / form-label / input types
  ✅ Images                      img-fluid / img-thumbnail / rounded-pill / figure
  ✅ Media Objects               d-flex + align-items-start + avatar pattern
  ✅ Font Awesome Icons          fas fa-* / far fa-* / icon buttons
+ ✅ Bootstrap Icons             bi bi-* / footer & UI icons
 ```
 
 ---
@@ -255,28 +289,39 @@ COMPONENTS
  BEGINNER ──────────────────────────────────────────── ADVANCED
     │                                                      │
     ▼                                                      ▼
- 01.html           →   Container sizes (start here!)
- index.html        →   First grid layout
- 02.html           →   Auto-width columns
- nesting.html      →   Rows inside columns
- offset.html       →   Offsets & ordering
- margin.html       →   Spacing utilities
- horizental-alignment.html  →  justify-content
- vertical-alignment.html    →  align-items
+ 01.html                    →   Container sizes (start here!)
+ index.html                 →   First grid layout
+ 02.html                    →   Auto-width columns
+ nesting.html               →   Rows inside columns
+ gutter.html                →   Column gutters & spacing
+ offset.html                →   Offsets & ordering
+ margin.html                →   Spacing utilities
+ horizental-alignment.html  →   justify-content
+ vertical-alignment.html    →   align-items
  align-content-vertically.html → align-content
- flex-classes.html →   Flexbox power
- float-clearfix.html → Float + fix
- overflow.html     →   Overflow control
- reordering.html   →   Column order tricks
- image.html        →   Image classes
- form-classes.html →   Forms
- card-classes.html →   Basic cards
- cards02.html      →   Advanced animated cards
- media-object.html →   Media patterns
- bootsrap-navbar.html → Responsive navbar
- carousal.html     →   Full-screen carousel
- h1.html           →   Styled headings (CSS + Bootstrap)
- tamplet.html      →   🏁 Full website — you made it!
+ flex-classes.html          →   Flexbox power
+ float-clearfix.html        →   Float + fix
+ overflow.html              →   Overflow control
+ reordering.html            →   Column order tricks
+ image.html                 →   Image classes
+ badges.html                →   Badges
+ alert.html                 →   Alerts with JS
+ table.html                 →   Tables
+ progress-bar.html          →   Progress bars
+ spinner.html               →   Spinners
+ form-classes.html          →   Forms
+ card-classes.html          →   Basic cards
+ cards02.html               →   Advanced animated cards
+ media-object.html          →   Media patterns
+ accordian.html             →   Accordion panels
+ model.html                 →   Basic modal
+ model-classes.html         →   Modal with form
+ bootsrap-navbar.html       →   Responsive navbar
+ carousal.html              →   Full-screen carousel
+ carousel-classes.html      →   Image carousel
+ footer.html                →   Footer design
+ h1.html                    →   Styled headings (CSS + Bootstrap)
+ tamplet.html               →   🏁 Full website — you made it!
 ```
 
 ---
@@ -291,7 +336,8 @@ COMPONENTS
 | **HTML5** | — | Semantic structure for all examples |
 | **CSS3** | — | Custom overrides in `style.css` |
 | **Font Awesome** | 6.0 – 6.5 | Icons used in cards & templates |
-| **Bootstrap JS Bundle** | 5.3.8 | Powers navbar collapse, carousel, dropdowns |
+| **Bootstrap Icons** | 1.11.1 | Icons used in footer & UI examples |
+| **Bootstrap JS Bundle** | 5.3.8 | Powers navbar collapse, carousel, modals, dropdowns |
 
 </div>
 
@@ -314,11 +360,11 @@ git push origin feature/your-example-name
 ```
 
 **Ideas welcome:**
-- 🔔 Toast & Alert components
-- 📊 Progress bars & spinners
-- 🗃️ Accordion & collapse panels
-- 🪟 Modals & offcanvas drawer
+- 🍞 Toast notifications
 - 📌 Sticky navbar & scrollspy
+- 🎨 Offcanvas drawer
+- 🔭 Tooltips & popovers
+- 🧩 List groups & breadcrumbs
 
 ---
 
